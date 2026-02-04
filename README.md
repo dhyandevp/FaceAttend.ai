@@ -1,4 +1,4 @@
-# 📸 FaceAttend.ai: Intelligent Attendance System
+# 📸 FaceAttend.ai :  Attendance System
 
 > A robust, contactless attendance management solution powered by Computer Vision.
 
